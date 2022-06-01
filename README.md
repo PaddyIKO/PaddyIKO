@@ -2,8 +2,8 @@
 - 👀 I’m interested in Computer Science and Gaming
 - 🌱 I’m currently learning my Bachelor o Sc. in Germany at Aalen Hochschule
 - 📫 How to reach me:
-        - Email: Padex99@gmail.com
-        - LinkedIn: 
+        - Email: Patrick.Kogel@online.de
+        - LinkedIn: linkedin.com/in/patrick-kogel-133629208
         - 
 <!---
 PaddyIKO/PaddyIKO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
