@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning my Bachelor o Sc. in Germany at Aalen Hochschule
 - 📫 How to reach me:
         - Email: Patrick.Kogel@online.de
-        - LinkedIn: linkedin.com/in/patrick-kogel-133629208
+        - LinkedIn: linkedin.com/in/patrick-kogel
         - 
 <!---
 PaddyIKO/PaddyIKO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
